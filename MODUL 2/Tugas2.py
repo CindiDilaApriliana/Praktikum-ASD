@@ -1,6 +1,3 @@
-#MODUL 2
-#CINDI DILA APRILIANA_L200200106
-
 
 """untuk no 2, 3, 4, 5, 6, 7 tetap menggunakan kode ini"""
 
